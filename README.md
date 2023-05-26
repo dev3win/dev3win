@@ -16,7 +16,7 @@
   </a>
 </div>
 <div style="padding-left: 60px;">
-  <a href="https://github.com/dev3win/dev3win.github.io/tree/main/silentsymphony">See project description on GitHub</a><br>
+  <a href="https://github.com/dev3win/dev3win.github.io/blob/main/silentsymphony/README.md">See project description on GitHub</a><br>
   <a href="https://play.google.com/store/apps/details?id=pl.dev3win.silentsymphony">Download App from Google Play</a>
 </div>
 
